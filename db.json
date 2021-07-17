@@ -1,4 +1,4 @@
-{
+[
   {"id": "1",
   "image": "https://www.themoviedb.org/t/p/w188_and_h282_bestv2/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg",
   "title": "Terminator : Dark Fate"
@@ -32,4 +32,5 @@
   "title": "Terminator : Dark Fate"
   }
 
-}
+]
+
